@@ -1,2 +1,1 @@
-# Robotron2000
-JavaScript: Manipulando o DOM
+# robotron-2000
